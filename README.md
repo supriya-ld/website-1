@@ -26,7 +26,8 @@ If you want to get rid of remainders of the process: `make clean` removes all co
 ### Made using 
 
   * Go
-  * Java
-  * Python
+  * Ruby
+  * Shell
+  * TSQL
   * HTML
-  * Javascript
+  * CSS
